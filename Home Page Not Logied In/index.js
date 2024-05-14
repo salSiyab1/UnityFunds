@@ -7,6 +7,8 @@ document.addEventListener('DOMContentLoaded', function() {
         // Example: Show/hide content, navigate to another page, etc.
     }
 
+
+    
     // Add click event listeners to all sections
     const sections = document.querySelectorAll('.section, .section1, .section2, .section3, .section4, .section5, .section6, .section7');
     sections.forEach(section => {
