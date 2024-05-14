@@ -11,6 +11,9 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
+
+    
+
     // Function to show a modal/dialog box with options
     function showModal(boxName) {
         // Create a modal element
